@@ -1,0 +1,16 @@
+class Solution {
+    public int firstMatchingIndex(String s) {
+        char[] arr=s.toCharArray();
+        int l=0;
+        int r=arr.length-1;
+
+        while(l<=r){
+            if(arr[l]==arr[r]){
+                return l;
+            }
+            l++;
+            r--;
+        }
+        return -1;
+    }
+}
