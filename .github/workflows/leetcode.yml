@@ -1,40 +1,19 @@
 name: Sync LeetCode
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Sync LeetCode
+        uses: joshcai/leetcode-sync@v1.7
         with:
-          python-version: "3.11"
-
-      - name: Install package
-        run: |
-          pip install leetcode-query
-
-      - name: Run sync script
-        env:
-          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
-          CSRF_TOKEN: ${{ secrets.CSRF_TOKEN }}
-        run: |
-          python sync.py
-
-      - name: Commit
-        run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-
-          git add .
-
-          git diff --cached --quiet || git commit -m "Sync LeetCode"
-
-          git push
+          github-token: ${{ github.token }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          verbose: true
