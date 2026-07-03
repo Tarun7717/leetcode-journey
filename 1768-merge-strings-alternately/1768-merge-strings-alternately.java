@@ -7,7 +7,7 @@ class Solution {
         
         StringBuilder sb = new StringBuilder();
 
-        while(i<m && i<n){
+        while(i<m || i<n){
             if(m>i){
                 sb.append(word1.charAt(i));
             }
@@ -16,14 +16,14 @@ class Solution {
             }
             i++;
         }
-        while(i<n){
-            sb.append(word2.charAt(i));
-            i++;
-        }
-        while(i<m){
-            sb.append(word1.charAt(i));
-            i++;
-        }
+        // while(i<n){
+        //     sb.append(word2.charAt(i));
+        //     i++;
+        // }
+        // while(i<m){
+        //     sb.append(word1.charAt(i));
+        //     i++;
+        // }
 
         return sb.toString();
         
