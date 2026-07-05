@@ -30,8 +30,7 @@ class Solution {
                     stk.push(ans);
                 }
             }else{
-                int n=Integer.parseInt(str);
-                stk.push(n);
+                stk.push(Integer.parseInt(str));
             }
         }
 
