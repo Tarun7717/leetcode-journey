@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tarun7717/leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarun7717/leetcode-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
 |  |
 | ------- |
