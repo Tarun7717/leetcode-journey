@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tarun7717/leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
+## Sorting
+|  |
+| ------- |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 <!---LeetCode Topics End-->
