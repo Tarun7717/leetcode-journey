@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/Tarun7717/leetcode-journey/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tarun7717/leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarun7717/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Tarun7717/leetcode-journey/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
