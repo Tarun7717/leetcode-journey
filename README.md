@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
