@@ -4,16 +4,9 @@ class Solution {
         int a=0;
         int b=0;
 
-        for(int i=1;i<=n*2;i++){
-            if(i%2!=0){
-                a+=i;
-            }
-        }
-
-        for(int i=1;i<=n*2;i++){
-            if(i%2==0){
-                b+=i;
-            }
+        for(int i=1;i<=n;i++){
+            a+=i*2-1;
+            b+=i*2;
         }
 
         while(b!=0){
