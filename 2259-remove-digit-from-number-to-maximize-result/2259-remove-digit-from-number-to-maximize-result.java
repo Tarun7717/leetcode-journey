@@ -5,9 +5,7 @@ class Solution {
         String max="";
         for(int i=0;i<n;i++){
             if(number.charAt(i)==digit){
-                String sub1=number.substring(0,i);
-                String sub2=number.substring(i+1,n);
-                String res = sub1+sub2;
+                String res = number.substring(0,i) + number.substring(i+1,n);
                 if(res.compareTo(max)>0){
                     max=res;
                 }
