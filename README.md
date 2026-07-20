@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Design
 |  |
 | ------- |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0796-rotate-string) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
