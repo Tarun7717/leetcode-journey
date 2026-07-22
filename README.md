@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Tarun7717/leetcode-journey/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tarun7717/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/Tarun7717/leetcode-journey/tree/master/0135-candy) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Tarun7717/leetcode-journey/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tarun7717/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
