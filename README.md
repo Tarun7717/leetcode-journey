@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tarun7717/leetcode-journey/tree/master/0706-design-hashmap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
 |  |
 | ------- |
