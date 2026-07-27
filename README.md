@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tarun7717/leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tarun7717/leetcode-journey/tree/master/0706-design-hashmap) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarun7717/leetcode-journey/tree/master/0053-maximum-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Tarun7717/leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
