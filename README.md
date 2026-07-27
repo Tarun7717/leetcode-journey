@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Tarun7717/leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Tarun7717/leetcode-journey/tree/master/0164-maximum-gap) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
