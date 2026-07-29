@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Tarun7717/leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Tarun7717/leetcode-journey/tree/master/3917-count-indices-with-opposite-parity) |
 ## Binary Search
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Backtracking
 |  |
 | ------- |
