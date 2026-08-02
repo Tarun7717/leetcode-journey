@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Tarun7717/leetcode-journey/tree/master/0706-design-hashmap) |
 | [0848-shifting-letters](https://github.com/Tarun7717/leetcode-journey/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tarun7717/leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tarun7717/leetcode-journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Tarun7717/leetcode-journey/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Tarun7717/leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarun7717/leetcode-journey/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
