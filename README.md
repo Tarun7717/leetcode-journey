@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Tarun7717/leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3099-harshad-number](https://github.com/Tarun7717/leetcode-journey/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tarun7717/leetcode-journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tarun7717/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun7717/leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarun7717/leetcode-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Stack
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tarun7717/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
