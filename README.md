@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Tarun7717/leetcode-journey/tree/master/0848-shifting-letters) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarun7717/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tarun7717/leetcode-journey/tree/master/0164-maximum-gap) |
+| [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tarun7717/leetcode-journey/tree/master/0135-candy) |
+| [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Tarun7717/leetcode-journey/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Tarun7717/leetcode-journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -282,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tarun7717/leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
