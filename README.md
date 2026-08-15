@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Tarun7717/leetcode-journey/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tarun7717/leetcode-journey/tree/master/0706-design-hashmap) |
 | [0848-shifting-letters](https://github.com/Tarun7717/leetcode-journey/tree/master/0848-shifting-letters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Tarun7717/leetcode-journey/tree/master/0848-shifting-letters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tarun7717/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tarun7717/leetcode-journey/tree/master/0706-design-hashmap) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tarun7717/leetcode-journey/tree/master/0164-maximum-gap) |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tarun7717/leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Tarun7717/leetcode-journey/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -230,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tarun7717/leetcode-journey/tree/master/0164-maximum-gap) |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -294,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
