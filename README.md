@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0520-detect-capital](https://github.com/Tarun7717/leetcode-journey/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tarun7717/leetcode-journey/tree/master/0720-longest-word-in-dictionary) |
