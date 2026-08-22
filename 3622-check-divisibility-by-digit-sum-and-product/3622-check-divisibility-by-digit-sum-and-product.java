@@ -12,9 +12,9 @@ class Solution {
             n=n/10;
         }
 
-        int res = (sum+product);
-        System.out.println(res);
-        if(original%res == 0){
+   
+
+        if(original % (sum+product) == 0){
             return true;
         }
 
