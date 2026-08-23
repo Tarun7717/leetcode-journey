@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Tarun7717/leetcode-journey/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/Tarun7717/leetcode-journey/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Tarun7717/leetcode-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tarun7717/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Tarun7717/leetcode-journey/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
