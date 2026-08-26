@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Tarun7717/leetcode-journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
 | [2418-sort-the-people](https://github.com/Tarun7717/leetcode-journey/tree/master/2418-sort-the-people) |
+| [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Tarun7717/leetcode-journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tarun7717/leetcode-journey/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
 ## Number Theory
 |  |
 | ------- |
