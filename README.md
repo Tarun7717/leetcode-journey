@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0912-sort-an-array) |
+| [1089-duplicate-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Tarun7717/leetcode-journey/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
