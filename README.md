@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Tarun7717/leetcode-journey/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Tarun7717/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Tarun7717/leetcode-journey/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Tarun7717/leetcode-journey/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Tarun7717/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Tarun7717/leetcode-journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tarun7717/leetcode-journey/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
