@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Tarun7717/leetcode-journey/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Tarun7717/leetcode-journey/tree/master/0848-shifting-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tarun7717/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Tarun7717/leetcode-journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Tarun7717/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/0090-subsets-ii) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Tarun7717/leetcode-journey/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Hash Table
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
 | [2418-sort-the-people](https://github.com/Tarun7717/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tarun7717/leetcode-journey/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
 ## Tree
 |  |
