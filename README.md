@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/Tarun7717/leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2418-sort-the-people](https://github.com/Tarun7717/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tarun7717/leetcode-journey/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun7717/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3731-find-missing-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tarun7717/leetcode-journey/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun7717/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun7717/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
 | [3794-reverse-string-prefix](https://github.com/Tarun7717/leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## String
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2418-sort-the-people](https://github.com/Tarun7717/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tarun7717/leetcode-journey/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun7717/leetcode-journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tarun7717/leetcode-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
