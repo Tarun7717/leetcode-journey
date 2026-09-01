@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
+| [3794-reverse-string-prefix](https://github.com/Tarun7717/leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
 | [2418-sort-the-people](https://github.com/Tarun7717/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
+| [3794-reverse-string-prefix](https://github.com/Tarun7717/leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
 | ------- |
