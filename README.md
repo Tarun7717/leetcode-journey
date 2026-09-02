@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3731-find-missing-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Tarun7717/leetcode-journey/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tarun7717/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3912-valid-elements-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Tarun7717/leetcode-journey/tree/master/3917-count-indices-with-opposite-parity) |
 ## Binary Search
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun7717/leetcode-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tarun7717/leetcode-journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Tarun7717/leetcode-journey/tree/master/3870-count-commas-in-range) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tarun7717/leetcode-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
