@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Tarun7717/leetcode-journey/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Tarun7717/leetcode-journey/tree/master/0848-shifting-letters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tarun7717/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Tarun7717/leetcode-journey/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Tarun7717/leetcode-journey/tree/master/1657-determine-if-two-strings-are-close) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Tarun7717/leetcode-journey/tree/master/0135-candy) |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Tarun7717/leetcode-journey/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tarun7717/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/2208-minimum-operations-to-halve-array-sum) |
