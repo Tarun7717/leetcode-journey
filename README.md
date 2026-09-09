@@ -349,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tarun7717/leetcode-journey/tree/master/0720-longest-word-in-dictionary) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Tarun7717/leetcode-journey/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
