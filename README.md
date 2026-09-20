@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
 | [2418-sort-the-people](https://github.com/Tarun7717/leetcode-journey/tree/master/2418-sort-the-people) |
 | [2938-separate-black-and-white-balls](https://github.com/Tarun7717/leetcode-journey/tree/master/2938-separate-black-and-white-balls) |
+| [3498-reverse-degree-of-a-string](https://github.com/Tarun7717/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Tarun7717/leetcode-journey/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Tarun7717/leetcode-journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Tarun7717/leetcode-journey/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Tarun7717/leetcode-journey/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
