@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Tarun7717/leetcode-journey/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Tarun7717/leetcode-journey/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Tarun7717/leetcode-journey/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Tarun7717/leetcode-journey/tree/master/0706-design-hashmap) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tarun7717/leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Tarun7717/leetcode-journey/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tarun7717/leetcode-journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Tarun7717/leetcode-journey/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tarun7717/leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tarun7717/leetcode-journey/tree/master/0172-factorial-trailing-zeroes) |
+| [0268-missing-number](https://github.com/Tarun7717/leetcode-journey/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Tarun7717/leetcode-journey/tree/master/1492-the-kth-factor-of-n) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Tarun7717/leetcode-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Tarun7717/leetcode-journey/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Tarun7717/leetcode-journey/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Hash Table
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Tarun7717/leetcode-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tarun7717/leetcode-journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Tarun7717/leetcode-journey/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Tarun7717/leetcode-journey/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
@@ -200,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Tarun7717/leetcode-journey/tree/master/0164-maximum-gap) |
+| [0268-missing-number](https://github.com/Tarun7717/leetcode-journey/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tarun7717/leetcode-journey/tree/master/0720-longest-word-in-dictionary) |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
