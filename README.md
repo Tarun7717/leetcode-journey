@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tarun7717/leetcode-journey/tree/master/0383-ransom-note) |
 | [0520-detect-capital](https://github.com/Tarun7717/leetcode-journey/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Tarun7717/leetcode-journey/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Tarun7717/leetcode-journey/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0796-rotate-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarun7717/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tarun7717/leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0678-valid-parenthesis-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Tarun7717/leetcode-journey/tree/master/0135-candy) |
+| [0678-valid-parenthesis-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Tarun7717/leetcode-journey/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Tarun7717/leetcode-journey/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarun7717/leetcode-journey/tree/master/0053-maximum-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -389,5 +393,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
