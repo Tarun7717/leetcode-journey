@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Tarun7717/leetcode-journey/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0796-rotate-string) |
 | [0848-shifting-letters](https://github.com/Tarun7717/leetcode-journey/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/0856-score-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tarun7717/leetcode-journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarun7717/leetcode-journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tarun7717/leetcode-journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
@@ -394,5 +396,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Tarun7717/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun7717/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
