@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tarun7717/leetcode-journey/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/Tarun7717/leetcode-journey/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Tarun7717/leetcode-journey/tree/master/0877-stone-game) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Tarun7717/leetcode-journey/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1492-the-kth-factor-of-n](https://github.com/Tarun7717/leetcode-journey/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Tarun7717/leetcode-journey/tree/master/2348-number-of-zero-filled-subarrays) |
