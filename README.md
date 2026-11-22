@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun7717/leetcode-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/Tarun7717/leetcode-journey/tree/master/1768-merge-strings-alternately) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Tarun7717/leetcode-journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Tarun7717/leetcode-journey/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Tarun7717/leetcode-journey/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2284-sender-with-largest-word-count](https://github.com/Tarun7717/leetcode-journey/tree/master/2284-sender-with-largest-word-count) |
 | [2418-sort-the-people](https://github.com/Tarun7717/leetcode-journey/tree/master/2418-sort-the-people) |
